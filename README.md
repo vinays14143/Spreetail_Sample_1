@@ -18,6 +18,6 @@ A basic console app built on .NETCore 5.0.
 - Contains CommandManager which manages various operations on dictionary.
 - Read/Write MultiValues dictionary Service for read and write operation implementation for dictionary.
 - Helper called ValidateInput class does the validation on input request.
-
+- Program.cs -> CommandManager -> MultiValueReadWriteDictionaryService
 # Test
 Unit test for some of the read and write operations using Nunit unit testing packages.
